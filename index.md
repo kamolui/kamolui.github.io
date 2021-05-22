@@ -4,7 +4,7 @@
 
 ### Personal projects
 
-Bioindustrias Méxicanas(https://github.com/kamolui/Bioindustrias)
+[Bioindustrias Méxicanas](https://github.com/kamolui/Bioindustrias)
 <img src="image/dummy_thumbnail.jpg?raw=true"/>
 
 ---
