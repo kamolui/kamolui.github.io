@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Personal projects
 
-[Project 1 Title](/sample_page)
+Bioindustrias Méxicanas(/sample_page)
 <img src="image/dummy_thumbnail.jpg?raw=true"/>
 
 ---
