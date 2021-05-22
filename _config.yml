@@ -1,7 +1,7 @@
 title: Luis Patiño # your name (or website title) here
 logo: "/image/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi i'm Luis a BS Math graduate from the "Instituto Politecnico Nacional", with a with a specialization in finance strong interest in data science. 
+  Hi i'm Luis a BS Math graduate from the "Instituto Politecnico Nacional", with a specialization in finance and a strong interest in data science. 
   I am skilled atanalyzing data and using numbers to present a coherent story.
   <br><br>
   Since I can remember I always had a passion for mathematics. Now I like to apply them to solve real life problems.
@@ -9,4 +9,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-9Y11ZBYK4E # your Google Analytics tracking ID here
