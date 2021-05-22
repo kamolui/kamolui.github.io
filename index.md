@@ -5,7 +5,7 @@
 ### Personal projects
 
 [Bioindustrias visualization](https://github.com/kamolui/Bioindustrias)
-<img src="image/informacion general.jpg?raw=true"/>
+<img src="image/informacion_general.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
