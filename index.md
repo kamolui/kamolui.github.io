@@ -4,7 +4,7 @@
 
 ### Personal projects
 
-[Project 2 Title](https://github.com/kamolui/TenenciaApp)
+[Tax payment prediction](https://github.com/kamolui/TenenciaApp)
 <img src="image/model_1.png?raw=true"/>
 <img src="image/model_2.png?raw=true"/>
 
