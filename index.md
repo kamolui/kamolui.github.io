@@ -10,8 +10,8 @@
 
 ---
 [Booking Webscraping](https://github.com/kamolui/booking-Webscraping)
-<img src="web_1.png?raw=true"/>
-<img src="web_2.png?raw=true"/>
+<img src="image/web_1.png?raw=true"/>
+<img src="image/web_2.png?raw=true"/>
 
 ---
 [Bioindustrias visualization](https://github.com/kamolui/Bioindustrias)
